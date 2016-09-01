@@ -17,7 +17,7 @@ small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead,
+table, caption, tfoot, thead,
 article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
@@ -39,10 +39,12 @@ ol, ul {
   list-style: none;
 }
 
+/*******************************************************************************
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+*******************************************************************************/
 
 /*******************************************************************************
 Theme Styles
